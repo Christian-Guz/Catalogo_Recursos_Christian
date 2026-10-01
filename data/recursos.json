@@ -40,6 +40,27 @@
         "tamano_mb": 62.8,
         "formato_audio": "Stereo 320 kbps"
       }
+    },
+    {
+      "id": "CODE-2026-304",
+      "tipo_archivo": "PY",
+      "tema": "Algoritmos y Estructuras de Datos en Python",
+      "autor": {
+        "nombre": "Luis",
+        "apellido": "Gómez",
+        "github_user": "lgomez-dev"
+      },
+      "bibliografia": {
+        "cita_apa": "Gómez, L. (2024). *Implementación de Árboles y Grafos en Python* [Código fuente]. Repositorio GitHub.",
+        "licencia": "MIT",
+        "version": "2.1.0",
+        "anio_publicacion": 2024
+      },
+      "detalles_tecnicos": {
+        "lineas_codigo": 850,
+        "tamano_mb": 0.12,
+        "dependencias": ["PyQt5", "matplotlib"]
+      }
     }
   ]
 }
