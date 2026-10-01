@@ -24,3 +24,12 @@ Instrucciones para preparar el entorno y dependencias:
 1. Crear entorno virtual con el comando python -m venv .venv en terminal
 2. Activar entorno virtual entrando a la carpeta .venv/Scripts/activate en terminal
 3. Instalar dependencias en terminal con el comando pip install requests y rich
+
+## Próximas Mejoras
+
+- Generar identificadores de archivos de texto según palabras claves
+- Generar identificadores de archivos de texto basados en el contenido
+- Permitir subtítulos automáticos para videos
+- Permitir edición de archivos de imágenes
+- Permitir comentarios directos con autores directos 
+- Creación de un blog de recursos de aprendizaje
