@@ -1,0 +1,45 @@
+{
+  "registros": [
+    {
+      "id": "DOC-2026-001",
+      "tipo_archivo": "PDF",
+      "tema": "Inteligencia Artificial aplicada al Desarrollo Web",
+      "autor": {
+        "nombre": "Carlos",
+        "apellido": "Mendoza",
+        "correo": "carlos.mendoza@example.com"
+      },
+      "bibliografia": {
+        "cita_apa": "Mendoza, C. (2025). *Inteligencia Artificial aplicada al Desarrollo Web*. Editorial Tecno, México.",
+        "editorial": "Editorial Tecno",
+        "anio_publicacion": 2025,
+        "isbn": "978-3-16-148410-0"
+      },
+      "detalles_tecnicos": {
+        "tamano_mb": 4.5,
+        "fecha_registro": "2026-09-30"
+      }
+    },
+    {
+      "id": "AUD-2026-089",
+      "tipo_archivo": "MP3",
+      "tema": "Diseño de Interfaces para Aplicaciones Móviles",
+      "autor": {
+        "nombre": "Ana",
+        "apellido": "Ríos",
+        "organizacion": "UX Design Lab"
+      },
+      "bibliografia": {
+        "cita_apa": "Ríos, A. (2026). *Tendencias en UI/UX para el 2026* [Episodio de Podcast Audio]. Tech UI Network.",
+        "nombre_serie": "Tech UI Network",
+        "episodio": 12,
+        "anio_publicacion": 2026
+      },
+      "metadatos_archivo": {
+        "duracion_minutos": 45,
+        "tamano_mb": 62.8,
+        "formato_audio": "Stereo 320 kbps"
+      }
+    }
+  ]
+}

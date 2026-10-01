@@ -1,0 +1,5 @@
+print ("Ingresa tu archivo")
+input ("Tipo: ")
+input ("Tema: ")
+input ("Autor: ")
+input ("Bilbiografía: ")
