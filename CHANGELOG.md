@@ -8,3 +8,7 @@ v1.9.2
 3. Revisión directas de archivos en caso de inclumplir con normativas o criterios del programa
 4. Identificación por nombre de autor, tipo, tema o referencias
 5. Limitación de peso de archivos menor a 2 GB
+
+6. Se genero un cambio en un archivo Mauricio Ivan Castro Hernandez
+
+
