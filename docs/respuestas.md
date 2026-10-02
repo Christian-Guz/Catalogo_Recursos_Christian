@@ -47,3 +47,5 @@ Para evitar conflictos directamente en el código principal e evitar problemas c
 Porque se puede hacer directamente desde la rama en la que se encuentra trabajando, sin tener que crear una solicitud de cambios
 
 10. Después de realizar el merge en GitHub, ¿por qué todavía es necesario actualizar el repositorio local?
+
+Porque se necesita actualizar el repositorio local para obtener los cambios realizados en la rama principal
