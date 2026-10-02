@@ -33,3 +33,9 @@ Instrucciones para preparar el entorno y dependencias:
 - Permitir edición de archivos de imágenes
 - Permitir comentarios directos con autores directos 
 - Creación de un blog de recursos de aprendizaje
+
+Tipos de recursos:
+Recursos de aprendizaje
+Recursos de práctica
+Recursos de prueba
+Recursos de entrenamiento
